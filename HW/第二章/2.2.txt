@@ -1,0 +1,3 @@
+利率：float 利率一般带小数
+本金：long long
+付款：long long
